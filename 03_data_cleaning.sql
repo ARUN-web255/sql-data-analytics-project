@@ -5,8 +5,6 @@
 -- TOTAL QUERIES: 12
 -- =====================================================
 
-USE Data_Analytics;
-
 -- 1. Update department for a specific employee
 UPDATE Employees
 SET dept_id = 1
