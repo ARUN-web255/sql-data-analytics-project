@@ -5,8 +5,6 @@
 -- TOTAL QUERIES: 18
 -- =====================================================
 
-USE Data_Analytics;
-
 -- 1. Count total number of employees
 SELECT COUNT(emp_id) AS total_employees
 FROM Employees;
